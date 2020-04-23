@@ -1,0 +1,5 @@
+/build/*
+!/build/.keep
+
+/deploy/config/*
+!/deploy/config/.keep
